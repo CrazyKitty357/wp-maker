@@ -17,3 +17,5 @@ The images are from [0x40 Default Hues](https://github.com/mon/0x40-web)
 **lockscreen-wp** *(linux only)*: Launches ani-wall with the lockscreen parameter.
 # Images Preview
 ![image info](./readme-assets/12.png)
+![image info](./readme-assets/7.png)
+![image info](./readme-assets/10.png)
